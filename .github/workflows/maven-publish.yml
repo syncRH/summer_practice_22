@@ -30,6 +30,6 @@ jobs:
         settings-path: ${{ github.workspace }} # location for the settings.xml file
 
     - name: Build with Maven and Test Program
-      run: mvn surefire:test -Dtest=**/Main
+      run: mvn -Dtest=**/Main test
       env:
         GITHUB_TOKEN: ${{ github.token }}
