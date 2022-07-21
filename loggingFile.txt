@@ -1,0 +1,598 @@
+июн. 09, 2022 10:56:17 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 10:56:17 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 10:56:34 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 10:56:58 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 10:57:02 AM Main$1 mouseClicked
+INFO: Возобновление потока Car1
+июн. 09, 2022 10:57:02 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car1
+июн. 09, 2022 10:57:14 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 10:57:15 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 10:57:15 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 10:57:15 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 10:57:15 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 10:57:15 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 10:57:31 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 10:57:40 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 10:57:46 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 10:57:52 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 10:57:52 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 10:57:57 AM Main$2 mouseClicked
+INFO: Выполнение метода sleep(5000) для потока Car2
+июн. 09, 2022 10:58:06 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 10:58:14 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 10:58:18 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 10:58:24 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 10:58:32 AM Main$1 mouseClicked
+INFO: Возобновление потока Car1
+июн. 09, 2022 10:58:32 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car1
+июн. 09, 2022 10:58:40 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 10:58:45 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 10:59:03 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 10:59:03 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 10:59:13 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 10:59:17 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 10:59:22 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 10:59:41 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 10:59:46 AM Main$2 mouseClicked
+INFO: Выполнение метода sleep(5000) для потока Car2
+июн. 09, 2022 10:59:50 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 10:59:50 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 10:59:55 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:00:37 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:00:37 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:00:40 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:00:42 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:01:31 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:01:31 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:01:38 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:01:39 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:02:18 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:02:18 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:02:20 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:02:22 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:02:26 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:03:49 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:03:49 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:03:52 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:03:54 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:03:58 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:03:59 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:04:00 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:04:11 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:04:11 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:04:14 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:04:18 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:04:30 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:04:30 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:04:32 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:04:33 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:04:55 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:04:55 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:05:01 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:05:05 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:06:27 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:06:27 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:06:30 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:06:34 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:06:47 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:06:48 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:06:50 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:06:52 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:07:10 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:07:10 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:07:14 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:07:18 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:07:22 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:07:24 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:07:24 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 11:07:28 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:07:30 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:07:32 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:07:36 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:08:57 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:08:57 AM Main main
+INFO: Запуск потока Car
+июн. 09, 2022 11:09:02 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:09:04 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:09:06 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:09:12 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:09:13 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:09:16 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:09:16 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 11:09:19 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:09:59 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:09:59 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:10:06 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:10:09 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:10:15 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:11:38 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:11:38 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:11:41 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:11:48 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:11:51 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:11:53 AM Main$1 mouseClicked
+INFO: Возобновление потока Car1
+июн. 09, 2022 11:11:53 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car1
+июн. 09, 2022 11:11:58 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:11:59 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:13:08 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:13:08 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:13:12 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:13:13 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:13:15 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:13:21 AM Main$1 mouseClicked
+INFO: Возобновление потока Car1
+июн. 09, 2022 11:13:21 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car1
+июн. 09, 2022 11:13:24 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:13:24 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 11:13:28 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:13:29 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:13:31 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:13:36 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:13:36 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 11:13:37 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:13:41 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:13:41 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 11:13:44 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:13:46 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:13:51 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:13:51 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 11:13:57 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:14:17 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:14:22 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:14:27 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:14:40 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:14:40 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:14:44 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:15:04 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:15:04 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:15:11 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:15:15 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:16:58 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:16:58 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:17:02 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:17:05 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:18:33 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:18:33 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:18:36 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:19:21 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:19:21 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:19:30 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:19:40 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:20:52 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:20:52 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:21:04 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:21:09 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:21:14 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:21:19 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:21:24 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:21:29 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:21:34 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:22:36 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:22:36 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:22:39 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:22:44 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:14 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:23:14 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:23:18 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:23 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:28 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:33 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:38 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:43 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:48 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:53 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:23:58 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:24:05 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:24:07 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:24:45 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:24:45 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:24:49 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:24:56 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:25:00 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:26:05 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:26:05 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:26:10 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:26:15 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:26:19 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:26:21 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:26:23 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:26:23 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:26:25 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car2
+июн. 09, 2022 11:26:29 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 11:26:31 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car1
+июн. 09, 2022 11:26:33 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:26:38 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:26:43 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:26:48 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:26:59 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:28:52 AM Main main
+INFO: Запуск потока Car 1
+июн. 09, 2022 11:28:52 AM Main main
+INFO: Запуск потока Car 2
+июн. 09, 2022 11:28:55 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car 2
+июн. 09, 2022 11:28:59 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car 1
+июн. 09, 2022 11:29:02 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car 2
+июн. 09, 2022 11:29:02 AM Main$4 mouseClicked
+INFO: Выполнение метода yield() для потока Car 2
+июн. 09, 2022 11:29:05 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car 2
+июн. 09, 2022 11:29:10 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car 2
+июн. 09, 2022 11:29:15 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car 2
+июн. 09, 2022 11:30:50 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:30:50 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:31:19 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:31:24 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:31:29 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:31:34 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:31:39 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:31:44 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:31:49 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:31:54 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:31:59 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:32:04 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:32:09 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:34:09 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:34:09 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:34:13 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car2
+июн. 09, 2022 11:34:21 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:34:30 AM Main$3 mouseClicked
+INFO: Выполнение метода join(5000) для потока Car1
+июн. 09, 2022 11:34:55 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:34:55 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:35:03 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:35:06 AM Main$3 mouseClicked
+INFO: Выполнение метода join для потока Car2
+июн. 09, 2022 11:35:09 AM Main$3 mouseClicked
+INFO: Выполнение метода join для потока Car2
+июн. 09, 2022 11:35:12 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:35:12 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 11:35:14 AM Main$3 mouseClicked
+INFO: Выполнение метода join для потока Car2
+июн. 09, 2022 11:35:19 AM Main$3 mouseClicked
+INFO: Выполнение метода join для потока Car1
+июн. 09, 2022 11:35:24 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:38:32 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:38:32 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:39:02 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:39:02 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:39:10 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:39:10 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:39:12 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:39:13 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:39:23 AM Main$3 mouseClicked
+INFO: Выполнение метода join для потока Car1
+июн. 09, 2022 11:39:46 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:39:46 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:39:49 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:39:52 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:39:55 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car1
+июн. 09, 2022 11:39:58 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car2
+июн. 09, 2022 11:40:56 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:40:56 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:40:59 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:40:59 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:41:02 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car2
+июн. 09, 2022 11:41:06 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car1
+июн. 09, 2022 11:41:17 AM Main$1 mouseClicked
+INFO: Возобновление потока Car1
+июн. 09, 2022 11:41:17 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car1
+июн. 09, 2022 11:41:18 AM Main$1 mouseClicked
+INFO: Возобновление потока Car2
+июн. 09, 2022 11:41:18 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 11:41:24 AM Main$3 mouseClicked
+INFO: Выполнение метода join для потока Car2
+июн. 09, 2022 11:41:27 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car2
+июн. 09, 2022 11:41:31 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car1
+июн. 09, 2022 11:43:12 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:43:12 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:43:16 AM Main$3 mouseClicked
+INFO: Выполнение метода wait для потока Car2
+июн. 09, 2022 11:44:18 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:44:18 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:44:22 AM Main$3 mouseClicked
+INFO: Выполнение метода wait для потока Car2
+июн. 09, 2022 11:45:32 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:45:32 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:45:35 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:45:38 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car1
+июн. 09, 2022 11:45:55 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car2
+июн. 09, 2022 11:45:57 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car2
+июн. 09, 2022 11:45:57 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car1
+июн. 09, 2022 11:45:58 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car1
+июн. 09, 2022 11:46:07 AM Main$1 mouseClicked
+INFO: Возобновление потока Car1
+июн. 09, 2022 11:46:07 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car1
+июн. 09, 2022 11:46:14 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:46:43 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:46:43 AM Main$1 mouseClicked
+INFO: Возобновление потока Car1
+июн. 09, 2022 11:46:43 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car1
+июн. 09, 2022 11:46:46 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:46:51 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car1
+июн. 09, 2022 11:47:23 AM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 11:47:23 AM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 11:47:26 AM Main$1 mouseClicked
+INFO: Пристановка потока Car1
+июн. 09, 2022 11:47:28 AM Main$1 mouseClicked
+INFO: Пристановка потока Car2
+июн. 09, 2022 11:47:32 AM Main$5 mouseClicked
+INFO: Выполнение метода NotifyAll() для потока Car1
+июн. 09, 2022 11:47:32 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car1
+июн. 09, 2022 11:47:32 AM Car run
+INFO: Р’РѕР·РѕР±РЅРѕРІР»РµРЅРёРµ РїРѕС‚РѕРєР° Car2
+июн. 09, 2022 12:20:08 PM Main main
+INFO: Запуск потока Car1
+июн. 09, 2022 12:20:08 PM Main main
+INFO: Запуск потока Car2
+июн. 09, 2022 12:20:15 PM Main$3 mouseClicked
+INFO: Выполнение метода join для потока Car2
+июн. 09, 2022 12:20:26 PM Main$3 mouseClicked
+INFO: Выполнение метода join для потока Car1
